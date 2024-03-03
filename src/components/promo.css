@@ -1,0 +1,30 @@
+.promo {
+  padding-bottom: 452px;
+}
+
+.promo__content {
+  text-align: center;
+  margin: auto;
+  max-width: 935px;
+  display: flex;
+  flex-direction: column;
+}
+
+.promo__text_upper {
+  font-size: 35px;
+}
+
+.promo__text_low {
+  padding-top: 27px;
+  font-size: 20px;
+  padding-bottom: 27px;
+}
+
+input[type='input__promo'] {
+  margin: 0 auto;
+  width: 527px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  background-color: white;
+}

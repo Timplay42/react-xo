@@ -1,0 +1,16 @@
+.buttons {
+  display: flex;
+}
+
+.oval-button {
+  width: 89px; 
+  height: 38px; 
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin: 10px; 
+  background-color: #737373; 
+  color: #ffffff;
+  font-size: 15px;
+}

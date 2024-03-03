@@ -1,0 +1,54 @@
+
+
+:root {
+    --textColor: white;
+    --textColor2: black;
+
+}
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--textColor);
+}
+
+.wrapper {
+    background-image: url('./../img/image_2024-03-01_15-27-31.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.wrapper_2 {
+  background-image: linear-gradient(to left, #ffff, #E4ECFF)
+  
+
+}
+
+.wrapper_3 {
+  background-image: linear-gradient(to bottom, #A7A7A7, #ffff)
+  
+
+}
+
+.container {
+  max-width: 1900px;
+  margin: 0 auto;
+  padding: 0 30px;
+
+}
+
+.container2 {
+  color: #3E5DAF;
+  max-width:  1900px;
+  margin: 0 auto;
+
+
+
+}
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

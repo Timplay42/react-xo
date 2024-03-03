@@ -1,29 +1,4 @@
-.text-info {
-  width: 100%;
-  padding: 20px;
-  background-color: white;
-  text-align: center;
-  border-radius: 50px;
-  background-color: #e4ecff;
-  flex: 1;
-}
-
-.rectangle2 {
-    width: 1176px;
-    height: 534px;
-    margin: 20px;
-    padding: 20px;
-    display: flex;
-  justify-content: space-between;
-  align-items: center;
-    color: black;
-
-  }
-
-
-
-
-  .rectangle {
+.rectangle {
   width: 1176px;
   height: 400;
   margin: 20px;
@@ -37,10 +12,11 @@
   width: 100%;
   padding: 20px;
   background-color: white;
-  text-align: center;
-  border-radius: 50px;
-  background-color: #e4ecff;
-  flex: 1;
+  text-align: left;
+}
+
+.image-container {
+  padding-right: 129px;
 }
 
 .rectangle2 {
@@ -48,10 +24,15 @@
   height: 534px;
   margin: 20px;
   padding: 20px;
+  padding-left: 150px;
+  margin-top: 222px;
+  margin-bottom: 240px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   color: black;
+  border-radius: 50px;
+  background-color: #e4ecff;
 }
 
 .info-card {
@@ -115,7 +96,6 @@
   background-color: #e4ecff;
   border-radius: 50px;
 }
-
 
 .button_bot {
   padding: 10px 20px;

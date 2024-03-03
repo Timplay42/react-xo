@@ -1,0 +1,32 @@
+.themes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left-column {
+    margin-top: 100px;
+    margin-bottom: 123px;
+    margin-left: 372px;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    font-size: 20px;
+
+}
+
+.right-column {
+    margin-top: 100px;
+    margin-bottom: 123px;
+    display: flex;
+    flex-direction: column;
+
+    margin-right: 367px;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+.item {
+    margin: 50px;
+}
